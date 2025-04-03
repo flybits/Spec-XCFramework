@@ -1,3 +1,6 @@
+This repository is on deprecated state and its binaries may not work soon. 
+Use the new repository: https://github.com/flybits/Spec-XCFramework-new that is currently working with Flybits binary storage.
+
 # Spec-XCFramework
 
 This is repository will hold all available releases from Flybits iOS SDKs compatible with all Xcode 11.4.0 and above versions.
